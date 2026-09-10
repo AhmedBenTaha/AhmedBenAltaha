@@ -370,7 +370,7 @@ Faculty of Computer Science & Artificial Intelligence, Benha University
 
 <br/><br/>
 
-<!-- Generated automatically by .github/workflows/snake.yml — see Setup Instructions -->
+<!-- Generated automatically by .github/workflows/snake.yml -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
