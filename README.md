@@ -371,8 +371,8 @@ Faculty of Computer Science & Artificial Intelligence, Benha University
 <br/><br/>
 
 <!-- Generated automatically by .github/workflows/snake.yml — see Setup Instructions -->
-<img src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation"/>
-<img src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBinTaha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBinTaha/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation"/>
 
 </div>
 
