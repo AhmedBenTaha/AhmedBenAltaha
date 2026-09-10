@@ -460,11 +460,6 @@ BUILD → MEASURE → EVALUATE → IMPROVE ↺
 
 <!-- Generated automatically by .github/workflows/snake.yml — see Setup Instructions -->
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</picture>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00A8FF&height=2&width=100%"/>
 
