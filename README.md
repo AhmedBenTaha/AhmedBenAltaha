@@ -457,7 +457,6 @@ BUILD → MEASURE → EVALUATE → IMPROVE ↺
 
 <br/><br/>
 
-**Snake — running across the graph above**
 
 <!-- Generated automatically by .github/workflows/snake.yml — see Setup Instructions -->
 <picture>
