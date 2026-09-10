@@ -362,34 +362,6 @@ Faculty of Computer Science & Artificial Intelligence, Benha University
 
 <br/>
 
-## 🔥 GitHub Contribution Activity
-
-<div align="center">
-
-<sub>The snake below animates over my real contribution graph — it's the closest GitHub-native equivalent to a "character running across" my activity, since GitHub renders the graph itself and doesn't allow visual overlays on top of it.</sub>
-
-<br/><br/>
-
-<!-- Generated automatically by .github/workflows/snake.yml -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBinTaha/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBinTaha/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBinTaha/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -468,6 +440,35 @@ BUILD → MEASURE → EVALUATE → IMPROVE ↺
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8FF,50:8B5CF6,100:EC4899&height=2&width=100%"/>
+
+<br/>
+
+## 🔥 GitHub Contribution Days
+
+<div align="center">
+
+<sub>My real contribution calendar — and the snake below animates by "eating" its way across the exact same grid, cell by cell.</sub>
+
+<br/><br/>
+
+**Contribution Graph**
+
+<img src="https://ghchart.rshah.org/00E5FF/AhmedBenTaha" alt="Ahmed's GitHub contribution graph" width="100%"/>
+
+<br/><br/>
+
+**Snake — running across the graph above**
+
+<!-- Generated automatically by .github/workflows/snake.yml — see Setup Instructions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00A8FF&height=2&width=100%"/>
 
 <br/>
 
