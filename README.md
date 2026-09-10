@@ -452,14 +452,14 @@ BUILD → MEASURE → EVALUATE → IMPROVE ↺
 <br/><br/>
 
 **Contribution Graph**
-
-<img src="https://ghchart.rshah.org/00E5FF/AhmedBenTaha" alt="Ahmed's GitHub contribution graph" width="100%"/>
-
-<br/><br/>
-
-
 <!-- Generated automatically by .github/workflows/snake.yml — see Setup Instructions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</picture>
 
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00A8FF&height=2&width=100%"/>
 
