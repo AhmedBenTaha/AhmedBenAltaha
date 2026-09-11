@@ -315,66 +315,6 @@ Faculty of Computer Science & Artificial Intelligence, Benha University
 
 <br/>
 
-## 💻 Terminal
-
-<div align="center">
-
-```bash
-$ whoami
-Ahmed Elsayed Taha
-
-$ role
-AI Engineer & Data Scientist
-
-$ specialization
-LLM Engineering | RAG | AI Agents | Generative AI | Machine Learning
-
-$ current_status
-Learning → Building → Evaluating → Improving
-
-$ mission
-Build reliable AI systems.
-```
-
-</div>
-
-<br/>
-
-## 🧭 AI Engineering Philosophy
-
-<div align="center">
-
-> Building an AI application is not just about calling an LLM.
-
-```text
-DATA → RETRIEVAL → CONTEXT → REASONING
-     → EVALUATION → GUARDRAILS → OBSERVABILITY → PRODUCTION
-```
-
-</div>
-
-<br/>
-
-## 🎯 Developer Mindset
-
-<div align="center">
-
-```text
-BUILD → MEASURE → EVALUATE → IMPROVE ↺
-```
-
-- Build systems, not just demos
-- Evaluate before trusting
-- Keep AI practical
-- Learn by building
-- Good AI needs good engineering
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8FF,50:8B5CF6,100:EC4899&height=2&width=100%"/>
-
-<br/>
-
 ## 🔥 GitHub Contribution Days
 
 <div align="center">
