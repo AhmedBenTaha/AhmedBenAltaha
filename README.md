@@ -178,11 +178,10 @@ Documents → Processing → Chunking → Embeddings
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark"/>
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00A8FF&height=2&width=100%"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,anaconda,colab&theme=dark"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </div>
 
