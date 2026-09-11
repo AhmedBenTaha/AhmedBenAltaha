@@ -182,6 +182,12 @@ Documents → Processing → Chunking → Embeddings
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00A8FF&height=2&width=100%"/>
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,anaconda,colab&theme=dark"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00A8FF&height=2&width=100%"/>
+
 <br/>
 
 ## 🏗️ What I Build
